@@ -43,7 +43,7 @@ Customer Inquiry → Quotation → Sales Order (VA01)
 | `Nova_Mart_Project_Report.pdf` | Full formal project report (10 sections, ~25 pages) |
 | `Nova_Mart_SAP_Dataset.xlsx` | 240-row synthetic O2C sales dataset + summary analysis + 5 charts |
 | `README.md` | This file |
-| `KIIT_SAP_Project.zip` | Complete submission archive |
+| `SAP_Project.zip` | Complete submission archive |
 
 ---
 
